@@ -5,8 +5,8 @@ body {
 	letter-spacing: 1px;
 }
 
-.tab {
- text-indent: 40px;
+.aboutTitle {
+	font-weight: bold;
 }
 
 .overlay {
@@ -234,6 +234,36 @@ right: 0px;
 	background-color: #fff;
 }
 
+.first {
+	position: relative;
+}
+
+.second {
+	position: static;
+	padding: 15px, 20px;
+}
+
+.linkedInButton {
+	color: #fff;
+	padding: 15px 20px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.twitterButton {
+	color: #fff;
+	padding: 15px 20px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.githubButton {
+	color: #fff;
+	padding: 15px 20px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
 .filter a {
 	color: #576574;
 	border: 1px solid #576574;
@@ -397,14 +427,23 @@ right: 0px;
 .navbar-brand,
 .navbar-brand:hover {
 	color: #fff;
+	font-size: 24px;
+	font-weight: bold;
 }
 
 .navbar-toggler-icon {
 	background: url(../img/icons/icons8-menu-rounded-50.png);
 	background-size: 100%;
+
 }
 
 .fixedNav #navigation {
 	position: fixed;
 	top: 0;
 }
+
+.nav-link {
+	font-size: 18px;
+}
+
+
