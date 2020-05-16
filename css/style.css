@@ -126,12 +126,12 @@ body {
 .downloadButton:hover {
 	text-decoration: none;
 	color: #fff;
-	background-color: #34ace0;
+	background-color: #474787;
 }
 
 .skillsSection,
 .contactSection {
-	background-color: #34ace0;
+	background-color: #474787;
 	color: #fff;
 }
 
@@ -199,7 +199,7 @@ right: 0px;
 	font-size: 56px;
 	margin-bottom: 10px;
 	font-weight: 400;
-	color: #34ace0;
+	color: #474787;
 }
 
 .squareContent h3 {
@@ -230,7 +230,7 @@ right: 0px;
 
 .contactButton:hover {
 	text-decoration: none;
-	color: #34ace0;
+	color: #474787;
 	background-color: #fff;
 }
 
@@ -277,8 +277,8 @@ right: 0px;
 }
 
 .filter .current {
-	background-color: #34ace0;
-	border-color: #34ace0;
+	background-color: #474787;
+	border-color: #474787;
 	color: #fff;
 }
 
@@ -338,7 +338,7 @@ right: 0px;
 .items a {
 	width: 40px;
 	height: 40px;
-	background-color: #34ace0;
+	background-color: #474787;
 	position: relative;
 	display: inline-block;
 
@@ -410,7 +410,7 @@ right: 0px;
 }
 
 #navigation {
-	background-color: #34ace0;
+	background-color: #474787;
 	padding: 20px, 10px;
 	z-index: 100;
 	width: 100%;
