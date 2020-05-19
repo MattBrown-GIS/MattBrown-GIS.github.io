@@ -38,6 +38,7 @@ body {
        -0.03em 0.03em black,
        0.03em -0.03em black,
        0.03em 0.03em black;
+       font-weight: 350;
 }
 
 .downButton .down {
@@ -54,6 +55,7 @@ body {
 	margin-left: -80px;
 	color: #fff;
 	font-size: 23px;
+
 }
 .downButton a.down  {
 	position: absolute;
@@ -116,7 +118,8 @@ body {
        -0.03em -0.03em black,
        -0.03em 0.03em black,
        0.03em -0.03em black,
-       0.03em 0.03em black;
+       0.03em 0.03em black; 
+       font-weight: 350;
 }
 
 .titleMessage .heading .sub {
@@ -130,6 +133,7 @@ body {
        -0.03em 0.03em black,
        0.03em -0.03em black,
        0.03em 0.03em black;
+       font-weight: 350;
 }
 
 .section {
