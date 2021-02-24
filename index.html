@@ -513,8 +513,11 @@
 
 	<div class="copyrightSection">
 		<div class="col-md-12 text-center">
-		<p>&copy; Copyright Matthew Brown, 2020</p>
+		<p>&copy; Copyright Matthew Brown, <span id="year"></span></p>
 		</div>
+		<script>
+			document.getElementById("year").innerHTML = new Date().getFullYear();
+		</script>
 
 	</div>
 
